@@ -8,3 +8,4 @@ This tool supports the "Data Provider" functionality by default, provide the dat
 
 # Upcoming Support:
 - Chrome Browser
+- AJAX Support
